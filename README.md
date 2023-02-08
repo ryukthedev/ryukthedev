@@ -9,7 +9,7 @@ class Ryuk:
         }
             self.contacts = {
             "Discord": "ryuk#7698",
-            "Telegram": "....",
+            "Telegram": "ryukthedev",
             "OGU": "ryukk"
         }
 ```
