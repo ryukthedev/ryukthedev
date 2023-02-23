@@ -3,9 +3,7 @@ class Ryuk:
 
     def __init__(self) -> None:
         self.aliases = {
-            "Main": "Ryuk",
-            "Github": "ryukthedev",
-            "OGU": "ryukk"
+            "Name": "Ryuk"
         }
             self.contacts = {
             "Discord": "ryuk#7698",
